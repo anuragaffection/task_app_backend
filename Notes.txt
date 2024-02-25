@@ -1,0 +1,53 @@
+https://krite.in/
+https://krite.com/
+
+
+Task management App 
+
+Authentication 
+-- signup 
+-- Login 
+-- Logout 
+
+Each Task 
+-- task = title, due date, description, 
+-- view all task 
+-- update task 
+-- delete task 
+-- view task in details 
+-- mark as completed task ]]frontend only]
+
+DB 
+-- mongodb 
+-- mongoose 
+-- atlas 
+
+Backend 
+-- Restful api 
+-- dotenv 
+-- cors 
+-- jwt 
+-- 
+
+frontend
+-- react 
+-- react-router-dom 
+
+
+State management
+-- context api 
+-- 
+
+Styling 
+-- tailwind
+-- scss /css
+
+Bonus 
+-- search or filter using heading ]]
+-- pagination for task ]use db query skip & limit]
+-- unit test for backend api ]]
+-- unit test for backend 
+-- unit test for frontend ]]
+-- real time update [socket.io]]]]]]
+
+
